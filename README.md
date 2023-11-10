@@ -1,3 +1,27 @@
+# SwapIt
+## Overview
+
+SwapIt is a simple web application that allows users to find and replace text within a given input text. It is built using React and styled with Material-UI components.
+
+## Features
+
+- **Input Text Area:** Users can input the text they want to perform find and replace on.
+- **Find and Replace Fields:** Users can specify the "Find" text and the "Replace" text.
+- **Replace Text Button:** Clicking the "Replace Text" button will perform the find and replace operation on the input text.
+- **Reset Button:** Users can reset all fields using the "Reset" button.
+- **Output Text Area:** Displays the output text after find and replace operation.
+- **Copy Output Button:** Allows users to copy the output text to the clipboard.
+- **Dark Mode Toggle:** Users can switch between light and dark mode for different visual preferences.
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/find-replace-react-app.git
+cd find-replace-react-app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

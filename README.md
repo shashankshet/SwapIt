@@ -20,6 +20,7 @@ SwapIt is a simple web application that allows users to find and replace text wi
 ```bash
 git clone https://github.com/your-username/find-replace-react-app.git
 cd find-replace-react-app
+```
 
 
 # Getting Started with Create React App
